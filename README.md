@@ -35,10 +35,6 @@ AI tools were used for visual help only.
 
 ---
 
-## 📷 Screenshot:
-![Game Screenshot](Counting coins.jpg)
-
----
 
 ### 🔗 Shareable Tags:
 `Scratch math game` · `counting coins` · `kids game Scratch` · `Indian rupee Scratch game` · `learn addition Scratch` · `educational Scratch game` · `child-friendly coding project`
