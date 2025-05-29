@@ -36,7 +36,7 @@ AI tools were used for visual help only.
 ---
 
 ## 📷 Screenshot:
-![Game Screenshot]()
+![Game Screenshot](Counting coins.jpg)
 
 ---
 
