@@ -36,7 +36,7 @@ AI tools were used for visual help only.
 ---
 
 ## 📷 Screenshot:
-![Game Screenshot](screenshot.png)
+![Game Screenshot]()
 
 ---
 
