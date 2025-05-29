@@ -34,8 +34,10 @@ I created the idea, designed the experience, and coded the game myself.
 AI tools were used for visual help only.
 
 ---
-
-
+## 📷 Screenshot:
+![Counting coins](https://github.com/user-attachments/assets/80fcff21-c47c-4b7b-ba0a-2557eb8f9a3b)
+---
 ### 🔗 Shareable Tags:
 `Scratch math game` · `counting coins` · `kids game Scratch` · `Indian rupee Scratch game` · `learn addition Scratch` · `educational Scratch game` · `child-friendly coding project`
+
 
